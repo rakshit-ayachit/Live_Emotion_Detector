@@ -59,4 +59,4 @@ Contributions to the Emotion Detection project are welcome. If you would like to
 
 ## Contact
 
-For any questions, suggestions, or inquiries, please feel free to contact me at rakshit.ayachit@gmail.com. We appreciate your feedback and contributions to improve the project.
+For any questions, suggestions, or inquiries, please feel free to contact me at rakshit.ayachit@gmail.com. Appreciate your feedback and contributions to improve the project.
